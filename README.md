@@ -1,7 +1,7 @@
 # MMOT213 Android Uygulama Geliştirme Dersi Odev 2
-
- - Projemde Ad,Soyad,Yaş,Lise,Memleket ve iş deneyimi bilgilerim yer almaktadır.
- - Instagram'dan iletişim için icon'a tıklayabilirsiniz.
+ - **Projemde Ad,Soyad,Yaş,Lise,Memleket ve iş deneyimi bilgilerim yer almaktadır.**
+ - **Projem Kotlin dili ile Android Studio ortamında geliştirilmiştir.**
+ - **Instagram'dan iletişim için icon'a tıklayabilirsiniz.**
  
 
 # Projemin Ekran Görüntüsü
