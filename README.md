@@ -3,9 +3,13 @@
  - **Projem Kotlin dili ile Android Studio ortamında geliştirilmiştir.**
  - **Instagram'dan iletişim için icon'a tıklayabilirsiniz.**
 # Kurulum
-<code>cd Desktop</code>
-<br></br>
-<code>git clone https://github.com/batuhnver/MMOT213_android_uygulama_Odev2.git</code>
+- <code>apt update</code>
+  <br></br>
+- <code>apt install git</code>
+  <br></br>
+- <code>cd Desktop</code>
+  <br></br>
+- <code>git clone https://github.com/batuhnver/MMOT213_android_uygulama_Odev2.git</code>
  
 
 # Projemin Ekran Görüntüsü
